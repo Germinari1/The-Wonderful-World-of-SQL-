@@ -1,0 +1,25 @@
+Question 1: If songs.db contains the top 100 songs of one listener from 2018, how would you characterize their audio aura?
+
+Characterizing the audio aura of a listener based on their top 100 songs from 2018 involves assessing certain musical attributes like energy, valence, and danceability.
+
+Energy: This attribute reflects the intensity and activity of a song. A high-energy song might have a fast tempo and loud sound, while a low-energy song might be slower and more subdued.
+Valence: Valence measures the positivity or happiness of a song. Higher valence indicates a more positive and cheerful mood, while lower valence might reflect sadness or negativity.
+Danceability: This attribute indicates how suitable a song is for dancing, based on factors like tempo, rhythm, and beat stability. High danceability suggests a rhythmically engaging song.
+If the listener's top 100 songs from 2018 have, on average, high energy, positive valence, and high danceability, their audio aura could be characterized as vibrant, upbeat, and energetic. Conversely, if the average values are low, their audio aura might be characterized as mellow or reflective.
+
+Question 2: Hypothesize about why the way you’ve calculated this aura might not be very representative of the listener. What better ways of calculating this aura would you propose?
+
+The way the audio aura is calculated based on the average energy, valence, and danceability of the listener's top 100 songs might not be very representative for a few reasons:
+
+Diversity of Taste: The top 100 songs might not accurately represent the listener's full musical taste. Their preferences could extend to a wider range of genres, tempos, and moods that aren't covered by this limited sample.
+
+Occasional Favorites: Some listeners might have a few songs they listen to intensely for a short period, skewing the average attributes. These songs might not truly reflect their overall mood or musical preferences.
+
+Contextual Factors: The listener's mood and preferences in 2018 might not be consistently reflected in their top 100 songs, as songs are often associated with particular memories or events.
+
+A better approach could involve considering:
+
+Long-Term Listening Patterns: Instead of just one year, analyzing a longer period could provide a more accurate representation of a listener's musical preferences and moods.
+Weighted Analysis: Assigning weights to songs based on their play frequency could provide a better representation of the listener's preferences.
+Genre and Mood Analysis: Considering the diversity of genres and mood indicators in the top songs could provide a more nuanced understanding of the listener's preferences.
+Incorporating machine learning techniques that analyze song lyrics, listening patterns, and context might offer a more sophisticated and accurate approach to determining a listener's audio aura.
